@@ -20,7 +20,7 @@
 </head>
 <body class="ms-4">
     <h1>Generatore di password</h1>
-<form  action="">
+<form  action="response.php">
     
     <div class="form-constrol">
         <input type="number" id="lengthPass" name="lengthPass">
